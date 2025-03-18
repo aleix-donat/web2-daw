@@ -1,2 +1,3 @@
-# web2-daw
-Here are all my web2 projects that I have created. Some of them are test projects I did when I was studying
+I only upload files that I modify due to space limitations (25MB)
+
+The whole project is written in their own documentation
